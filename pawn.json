@@ -1,0 +1,9 @@
+{
+	"user": "getright",
+	"repo": "infobox",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
